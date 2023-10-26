@@ -7,6 +7,9 @@ import java.util.Scanner;
 /**
  *
  * @author user
+ Nama: Farchatul Hudayah
+ Nim: 22205071
+ Prodi: Teknik Informatika
  */
 public class Latihan20 {
     
