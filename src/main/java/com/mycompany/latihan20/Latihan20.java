@@ -13,6 +13,7 @@ import java.util.Scanner;
  Prodi             : Teknik Informatika
  Kelas             : PBO1
  Deskripsi Program : Program ini berisi program yang menampilkan target saldo tabungan 
+ *
  */
 public class Latihan20_2 {
 
@@ -39,5 +40,3 @@ public class Latihan20_2 {
         }
     }
 }
-        }
-    }
